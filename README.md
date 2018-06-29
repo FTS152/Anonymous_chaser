@@ -2,6 +2,7 @@
 
 To use this application, Plurk API 2.0 and Chrome driver is needed
 Plurk API 2.0 sign up: https://www.plurk.com/PlurkApp/register
+
 Chrome driver: http://chromedriver.chromium.org/downloads
 You also need an Plurk account to be the hound, better sign up for a new one.
 
