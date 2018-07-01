@@ -18,7 +18,14 @@ $pip install -r requirements.txt
 $python hounds.py
 ```
 
->Noted that the App **only** finds post by someone's(master) friend.
+or
+
+```
+$python kitty.py
+```
+
+>Noted that the hounds **only** finds post from someone's(master) friend.
+>And kitty finds post from your following.
 >if the post doesn't appear in master's channel, then this App won't work anymore.
 >
 >Enjoy until Plurk fix this configuration:)
